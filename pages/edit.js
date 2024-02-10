@@ -190,7 +190,7 @@ const Edit = () => {
               ></input>
             </div>
             <div className="mt-5 flex items-center">
-              <label className="w-1/5 text-lg opacity-50">
+              <label className="w-1/5 text-m opacity-50">
                 Header Tagline Two
               </label>
               <input
@@ -203,7 +203,7 @@ const Edit = () => {
               ></input>
             </div>
             <div className="mt-5 flex items-center">
-              <label className="w-1/5 text-lg opacity-50">
+              <label className="w-1/5 text-m opacity-50">
                 Header Tagline Three
               </label>
               <input
@@ -216,7 +216,7 @@ const Edit = () => {
               ></input>
             </div>
             <div className="mt-5 flex items-center">
-              <label className="w-1/5 text-lg opacity-50">
+              <label className="w-1/5 text-m opacity-50">
                 Header Tagline Four
               </label>
               <input
@@ -228,8 +228,9 @@ const Edit = () => {
                 type="text"
               ></input>
             </div>
+
             <div className="mt-5 flex items-center">
-              <label className="w-1/5 text-lg opacity-50">Blog</label>
+              <label className="w-1/5 text-m opacity-50">Blog</label>
               <div className="w-4/5 ml-10 flex items-center">
                 <Button
                   onClick={() => setData({ ...data, showBlog: true })}
