@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mayank </h1>
 
 - 🔭 I’m currently working on [ReflectLLM - Tool for thought iOS App](https://github-profile-generator.vercel.app)
-- 🌱 I’m currently exploring **Vison OS, Unity and Fine Tuning ML Models**
+- 🌱 I’m currently exploring **Vison OS, Unity, retrieval augmented generation(RAG) with ML models and Fine Tuning ML Models**
 - 📫 How to reach me **mayraj035@gmail.com**
 - 👨‍💻 All of my projects are available at **[Portfolio Website](https://rajmayank.netlify.app)**
 - 📄 Know about my experiences: **[Resume](https://docs.google.com/document/d/1SSYOyMZnamyH-587VH3nSQrMQqRhglYF1Mc2Z9mymV4)**
