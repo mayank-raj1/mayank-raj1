@@ -44,7 +44,7 @@
 
 ### Frontend   
 <div align="center" style="justify-content: space-evenly;">  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px; padding:1000px" src="https://raw.githubusercontent.com/mayank-raj1/Apple-Framwworks/940470bfe0af6074db737908d82e623a3f2a9ab7/Apple-Framwworks/Assets.xcassets/swiftui.imageset/swiftui.png" alt="Swift" height="70" /></a>  
+<a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img style="margin: 10px; padding:1000px" src="https://raw.githubusercontent.com/mayank-raj1/Apple-Framwworks/940470bfe0af6074db737908d82e623a3f2a9ab7/Apple-Framwworks/Assets.xcassets/swiftui.imageset/swiftui.png" alt="Swift" height="70" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="70" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="70" /></a>  
