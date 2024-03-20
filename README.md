@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/859807/screenshots/6284055/benny_typing_1.gif" align="center" style="width: 80%" />
+
 </div>  
 
 <h1 align="center">Hi 👋, I'm Mayank </h1>
